@@ -6,7 +6,7 @@
 ![image](https://github.com/fffnower/---V-/assets/32289652/94cf3af5-7c02-4e30-83cb-c2161ab2d9b1)
 
 ### 2. 前置条件：
-  - 使用微软IME全拼（双拼确实可以用 shift + v 触发v模式，但是不能进行vucxxxx的Unicode码输入）
+  - 使用微软IME全拼（双拼确实可以用 Shift + v 触发v模式，但是不能进行vucxxxx的Unicode码输入）
   - 使用Shift进行中英文切换
   - 输出窗口以中文方式开始
 
